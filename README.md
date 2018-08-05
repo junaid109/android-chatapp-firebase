@@ -1,4 +1,4 @@
-# FriendlyChat
+# AndroidChatApp
 
 This repository contains code for the AndroidChatApp
 ## Overview
