@@ -1,0 +1,117 @@
+{
+  "project_info": {
+    "project_number": "725386693051",
+    "firebase_url": "https://chatapplication-c3eaf.firebaseio.com",
+    "project_id": "chatapplication-c3eaf",
+    "storage_bucket": "chatapplication-c3eaf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:725386693051:android:0d6df6bd9146db98",
+        "android_client_info": {
+          "package_name": "com.example.junaidmalik.chatapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "725386693051-f863ratnfjup69jksmn4k3vn2p8m1mr5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAorRHuDlFiXQm1-aaArMIUOrjmacZaTC4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:725386693051:android:498a79c0d3fdebcb",
+        "android_client_info": {
+          "package_name": "com.junaidmalik.notificationapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "725386693051-f863ratnfjup69jksmn4k3vn2p8m1mr5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAorRHuDlFiXQm1-aaArMIUOrjmacZaTC4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:725386693051:android:28ddcf2022e2f23c",
+        "android_client_info": {
+          "package_name": "remedy.junaid.firechat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "725386693051-aajc2gh5f8t9mhd1p7l2kehocu1jtblj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "remedy.junaid.firechat",
+            "certificate_hash": "2bafcbea1ba8ee2cbaa0abbc021bc93d2d2a2d7e"
+          }
+        },
+        {
+          "client_id": "725386693051-f863ratnfjup69jksmn4k3vn2p8m1mr5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAorRHuDlFiXQm1-aaArMIUOrjmacZaTC4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "725386693051-f863ratnfjup69jksmn4k3vn2p8m1mr5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
